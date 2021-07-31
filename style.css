@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+.line{
+    height: 7px;
+    width: 100px;
+    background-color: aquamarine;
+    margin: 25px auto;
+}
+img:hover{
+    transform: scale(0.9);
+}
+#myCarousel{
+    background-color: lawngreen;
+}
